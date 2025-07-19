@@ -9,5 +9,5 @@ while True:
   if numero == "0":
     break
   suma += float(numero)
-  print("La suma total de los ingresados es: ", suma)
+print("La suma total de los ingresados es: ", suma)
     
